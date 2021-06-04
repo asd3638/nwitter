@@ -1,2 +1,2 @@
 # nwitter
-firebase clone coding
+cloning twitter with react and firebase
